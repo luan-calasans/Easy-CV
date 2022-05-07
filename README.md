@@ -6,6 +6,3 @@
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
-
-<h2>✔ Finished project</h2>
-<p>You can test the site through this link: https://luan-calasans.github.io/Easy-CV/</p>
